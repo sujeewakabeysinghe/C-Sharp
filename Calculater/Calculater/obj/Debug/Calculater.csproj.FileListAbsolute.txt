@@ -1,0 +1,7 @@
+C:\Users\Sujeewa Abeysinghe\source\repos\Calculater\Calculater\bin\Debug\Calculater.exe.config
+C:\Users\Sujeewa Abeysinghe\source\repos\Calculater\Calculater\bin\Debug\Calculater.exe
+C:\Users\Sujeewa Abeysinghe\source\repos\Calculater\Calculater\bin\Debug\Calculater.pdb
+C:\Users\Sujeewa Abeysinghe\source\repos\Calculater\Calculater\obj\Debug\Calculater.csproj.CoreCompileInputs.cache
+C:\Users\Sujeewa Abeysinghe\source\repos\Calculater\Calculater\obj\Debug\Calculater.exe
+C:\Users\Sujeewa Abeysinghe\source\repos\Calculater\Calculater\obj\Debug\Calculater.pdb
+C:\Users\Sujeewa Abeysinghe\source\repos\Calculater\Calculater\obj\Debug\Calculater.csprojAssemblyReference.cache

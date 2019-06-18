@@ -1,0 +1,7 @@
+C:\Users\Sujeewa Abeysinghe\source\repos\GettersAndSetters\GettersAndSetters\bin\Debug\GettersAndSetters.exe.config
+C:\Users\Sujeewa Abeysinghe\source\repos\GettersAndSetters\GettersAndSetters\bin\Debug\GettersAndSetters.exe
+C:\Users\Sujeewa Abeysinghe\source\repos\GettersAndSetters\GettersAndSetters\bin\Debug\GettersAndSetters.pdb
+C:\Users\Sujeewa Abeysinghe\source\repos\GettersAndSetters\GettersAndSetters\obj\Debug\GettersAndSetters.csprojAssemblyReference.cache
+C:\Users\Sujeewa Abeysinghe\source\repos\GettersAndSetters\GettersAndSetters\obj\Debug\GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\Sujeewa Abeysinghe\source\repos\GettersAndSetters\GettersAndSetters\obj\Debug\GettersAndSetters.exe
+C:\Users\Sujeewa Abeysinghe\source\repos\GettersAndSetters\GettersAndSetters\obj\Debug\GettersAndSetters.pdb

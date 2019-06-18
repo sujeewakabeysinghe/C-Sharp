@@ -1,0 +1,7 @@
+C:\Users\Sujeewa Abeysinghe\source\repos\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\Sujeewa Abeysinghe\source\repos\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\Sujeewa Abeysinghe\source\repos\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\Sujeewa Abeysinghe\source\repos\Variables\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Users\Sujeewa Abeysinghe\source\repos\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Sujeewa Abeysinghe\source\repos\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\Sujeewa Abeysinghe\source\repos\Variables\Variables\obj\Debug\Variables.pdb

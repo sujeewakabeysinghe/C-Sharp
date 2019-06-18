@@ -1,0 +1,7 @@
+C:\Users\Sujeewa Abeysinghe\source\repos\ObjectMethods\ObjectMethods\bin\Debug\ObjectMethods.exe.config
+C:\Users\Sujeewa Abeysinghe\source\repos\ObjectMethods\ObjectMethods\bin\Debug\ObjectMethods.exe
+C:\Users\Sujeewa Abeysinghe\source\repos\ObjectMethods\ObjectMethods\bin\Debug\ObjectMethods.pdb
+C:\Users\Sujeewa Abeysinghe\source\repos\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.csprojAssemblyReference.cache
+C:\Users\Sujeewa Abeysinghe\source\repos\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.csproj.CoreCompileInputs.cache
+C:\Users\Sujeewa Abeysinghe\source\repos\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.exe
+C:\Users\Sujeewa Abeysinghe\source\repos\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.pdb

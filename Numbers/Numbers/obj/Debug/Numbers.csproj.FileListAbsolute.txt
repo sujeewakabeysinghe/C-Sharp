@@ -1,0 +1,7 @@
+C:\Users\Sujeewa Abeysinghe\source\repos\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\Sujeewa Abeysinghe\source\repos\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\Sujeewa Abeysinghe\source\repos\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\Sujeewa Abeysinghe\source\repos\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Sujeewa Abeysinghe\source\repos\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\Sujeewa Abeysinghe\source\repos\Numbers\Numbers\obj\Debug\Numbers.pdb
+C:\Users\Sujeewa Abeysinghe\source\repos\Numbers\Numbers\obj\Debug\Numbers.csprojAssemblyReference.cache
